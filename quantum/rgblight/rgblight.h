@@ -17,9 +17,9 @@
 #pragma once
 
 // DEPRECATED DEFINES - DO NOT USE
-#if defined(RGBLED_NUM)
-#    define RGBLIGHT_LED_COUNT RGBLED_NUM
-#endif
+// #if defined(RGBLED_NUM)
+// #    define RGBLIGHT_LED_COUNT RGBLED_NUM
+// #endif
 // ========
 
 /***** rgblight_mode(mode)/rgblight_mode_noeeprom(mode) ****
